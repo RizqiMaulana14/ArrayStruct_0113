@@ -29,6 +29,3 @@ int main(){
         cout << "Nama Mahasiswa = " << nama[n] << endl;
     }
 }
-
-
-
