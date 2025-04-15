@@ -36,6 +36,3 @@ int main(){
         cout << "ALAMAT KOTA = " << mhs[n].alamat.kota << endl;
     }
 }
-
-
-
