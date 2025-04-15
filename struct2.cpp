@@ -13,7 +13,6 @@ struct mahasiswa{
 };
 
 int main(){
-    //membuat object struct mahasiswa
     mahasiswa mhs;
 
     //mengakses struct mahasiswa
